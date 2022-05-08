@@ -47,4 +47,3 @@ let t1 = performance.now();
 radixSort(data);
 let t2 = performance.now();
 console.log((t2-t1)/1000)
-// radixSort([321,321,54,7432,222,2224,4566,22222])
